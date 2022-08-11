@@ -1,0 +1,18 @@
+.tabnav{
+    text-decoration: none;
+}
+.img{
+    text-align: center;
+}
+
+.txtwhite{
+    color: #ffffff;
+}
+
+.clr{
+    height: 100px;
+    width: 100px;
+    border: 5px solid brown;
+    border-radius: 100%;
+    background-color: aqua;
+}
